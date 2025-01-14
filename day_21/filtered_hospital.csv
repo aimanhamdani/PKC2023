@@ -1,0 +1,54 @@
+id,hospital,category,hospital_type,city,total_beds,allocated,filled,vacant
+1,"Mayo Hospital, Lahore",Genral/Covid,SHC&MED Hospitals,Lahore, Isolation wards / Rooms,92,12,80
+5,"Services Hospital, Lahore",Genral/Covid,SHC&MED Hospitals,Lahore, Isolation wards / Rooms,82,65,17
+21,Expo Field Hospital Lahore,Field,SHC&MED Hospitals,Lahore, Isolation wards / Rooms,60,0,60
+22,"Mayo Hospital, Lahore",Genral/Covid,SHC&MED Hospitals,Lahore,HDUs,234,127,107
+23,"Jinnah Hospital, Lahore.",Genral/Covid,SHC&MED Hospitals,Lahore,HDUs,164,71,93
+25,"Lahore General Hospital, Lahore",Genral/Covid,SHC&MED Hospitals,Lahore,HDUs,70,63,7
+27,"Govt. M. Nawaz Sharif Teaching
+Hospital, Yakki Gate, Lahore",Genral,SHC&MED Hospitals,Lahore,HDUs,70,12,58
+42,Expo Field Hospital Lahore,Field,SHC&MED Hospitals,Lahore,HDUs,280,40,240
+43,"Mayo Hospital, Lahore",Genral/Covid,SHC&MED Hospitals,Lahore,Ventilators,86,70,16
+64,Civil Hospital Bahawalpur,Genral/Covid,SHC&MED Hospitals,Bahawalpur, Isolation wards / Rooms,110,12,98
+68,DHQ Teaching Hospital Faisalabad,Genral/Covid,SHC&MED Hospitals,Faisalabad, Isolation wards / Rooms,62,45,17
+69,"Govt. General Hospital Ghulam Muhammad Abad,
+Faisalabad",Non-Covid,SHC&MED Hospitals,Faisalabad, Isolation wards / Rooms,121,44,77
+72,DHQ/Teaching Hospital Gujranwala,Genral/Covid,SHC&MED Hospitals,Gujranwala, Isolation wards / Rooms,100,44,56
+74,"Nishtar Hospital, Multan",Genral/Covid,SHC&MED Hospitals,Multan, Isolation wards / Rooms,222,173,49
+80,"Benazir Bhutto Hospital, Rawalpindi",Genral/Covid,SHC&MED Hospitals,Rawalpindi, Isolation wards / Rooms,125,40,85
+81,"Holy Family Hospital, Rawalpindi",Genral/Covid,SHC&MED Hospitals,Rawalpindi, Isolation wards / Rooms,90,29,61
+82,"Rawal Institute of Urology, Rawalpindi",Genral/Covid,SHC&MED Hospitals,Rawalpindi, Isolation wards / Rooms,120,6,114
+85,"Sheikh Zayed Hospital, Rahim Yar Khan.",Genral/Covid,SHC&MED Hospitals,RY Khan, Isolation wards / Rooms,149,77,72
+88,"DHQ Teaching Hosptial, Sargodha",Genral/Covid,SHC&MED Hospitals,Sargodha, Isolation wards / Rooms,75,51,24
+100,Civil Hospital Bahawalpur,Genral/Covid,SHC&MED Hospitals,Bahawalpur,HDUs,80,70,10
+103,"Allied Hospital, Faisalabad",Genral/Covid,SHC&MED Hospitals,Faisalabad,HDUs,294,226,68
+104,DHQ Teaching Hospital Faisalabad,Genral/Covid,SHC&MED Hospitals,Faisalabad,HDUs,64,41,23
+109,"Aziz Bhatti Shaheed Teaching Hospital, Gujrat",Genral/Covid,SHC&MED Hospitals,Gujrat,HDUs,165,47,118
+118,"Rawal Institute of Urology, Rawalpindi",Genral/Covid,SHC&MED Hospitals,Rawalpindi,HDUs,201,48,153
+125,"Allama Iqbal Memorial Teaching Hospital, Sialkot",Genral/Covid,SHC&MED Hospitals,Sialkot,HDUs,74,22,52
+146,"Nishtar Hospital, Multan",Genral/Covid,SHC&MED Hospitals,Multan,Ventilators,101,79,22
+172,"Avicenna Hospital, Lahore",Private,Private Hospitals,Lahore, Isolation wards / Rooms,64,0,64
+220,"Farooq hospital, Westwood
+Society, Lahore",Private,Private Hospitals,Lahore,HDUs,51,21,30
+304,"ABWA Hospital, Faisalabad",Private,Private Hospitals,Faisalabad, Isolation wards / Rooms,100,10,90
+323,"Pak Red Crescent Hospital, Kasur",Private,Private Hospitals,Kasur, Isolation wards / Rooms,90,0,90
+349,"Niazi Welfare Foundation Teaching Hospital,
+Sargodha",Private,Private Hospitals,Sargodha, Isolation wards / Rooms,80,0,80
+358,"ABWA Hospital, Faisalabad",Private,Private Hospitals,Faisalabad,HDUs,75,7,68
+501,"Isfandyar Bukhari District Hospital, Attock",DHQ,P&SHD Hospitals,Attock, Isolation wards / Rooms,80,9,71
+516,"District Headquarter Hospital, Bhakkar",DHQ,P&SHD Hospitals,Bhakkar, Isolation wards / Rooms,68,37,31
+520,"District Headquarter Hospital, Chakwal",DHQ,P&SHD Hospitals,Chakwal, Isolation wards / Rooms,65,0,65
+546,"District Headquarter Hospital, Jhang",DHQ,P&SHD Hospitals,Jhang, Isolation wards / Rooms,120,46,74
+551,"District Headquarter Hospital, Jhelum",DHQ,P&SHD Hospitals,Jhelum, Isolation wards / Rooms,138,34,104
+555,"District Headquarter Hospital, Kasur",DHQ,P&SHD Hospitals,Kasur, Isolation wards / Rooms,60,11,49
+564,"District Headquarter Hospital, Khushab",DHQ,P&SHD Hospitals,Khushab, Isolation wards / Rooms,55,13,42
+600,"District Headquarter Hospital, Okara",DHQ,P&SHD Hospitals,Okara, Isolation wards / Rooms,64,13,51
+603,"District Headquarter Hospital, Pakpattan",DHQ,P&SHD Hospitals,Pakpattan, Isolation wards / Rooms,112,32,80
+627,"District Headquarter Hospital, Sheikhupura",DHQ,P&SHD Hospitals,Sheikhupura, Isolation wards / Rooms,54,54,0
+637,"District Headquarter Hospital, Toba Tek Singh, T.T
+Singh",DHQ,P&SHD Hospitals,T.T Singh, Isolation wards / Rooms,70,35,35
+641,"District Headquarter Hospital, Vehari",DHQ,P&SHD Hospitals,Vehari, Isolation wards / Rooms,105,36,69
+659,"District Headquarter Hospital, Bhakkar",DHQ,P&SHD Hospitals,Bhakkar,HDUs,52,31,21
+694,"District Headquarter Hospital, Jhelum",DHQ,P&SHD Hospitals,Jhelum,HDUs,78,21,57
+742,"District Headquarter Hospital South City Okara,
+Okara",DHQ,P&SHD Hospitals,Okara,HDUs,75,9,66
