@@ -1,0 +1,4 @@
+seaborn==0.13.2
+streamlit==1.43.2
+streamlit_ydata_profiling==0.2.1
+ydata_profiling==4.14.0
